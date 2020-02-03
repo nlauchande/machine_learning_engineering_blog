@@ -1,4 +1,4 @@
-# About Natu Laucahande
+# About Natu Lauchande
 
 Software & Machine Learning  Engineering [ Scala , Python, Java, Apache Spark, Hadoop, AWS, Open Source Contributor, TensorFlow, Keras, SKLearn, Catboost, XGBoost, FastAI ]  w/ 10+ years of  professional experience.  Currently tackling problems in the intersection of Machine Learning, Data Engineering and Distributed Systems.
 
