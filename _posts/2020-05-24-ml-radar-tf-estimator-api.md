@@ -1,4 +1,4 @@
-# Week - 24th of May 2020 - Tensor Flow Estimator API
+# Playing with the Tensorflow Estimator API
 
 On this notes. I will delve a bit on interesting Tensor Flow components to make our lifes easier with a simple example.
 
