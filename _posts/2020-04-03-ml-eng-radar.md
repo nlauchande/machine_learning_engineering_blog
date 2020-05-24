@@ -1,4 +1,4 @@
-# Week - 3rd of May 2020 - ML Engineering Tips Radar
+# ML Engineering Tips Radar - Releases of MlFlow 1.8 and Tensorflow 2.2.0
 
 A couple of highlights for me of the week relevant to the ML Engineering comunity :
 
