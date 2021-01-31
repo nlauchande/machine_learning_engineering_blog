@@ -3,11 +3,9 @@
 
 ![Here I am](https://pbs.twimg.com/profile_images/1138050464573022208/llhmkn26_400x400.png)
 
-My name is Natu Lauchande i am currently a Principal Engineer @ Jumo.World and i have been tackling problems in the intersection of Machine Learning, Data Engineering and Distributed Systems in the  Data  teams at Jumo for the last couple of years . 
+My name is Natu Lauchande i am currently a Principal Engineer in the Fintech space. At heart, I enjoy coding Distributed/Data/ML systems with cool/motivated people rallying around a challenging effort that makes the world a better place.  "It always seems impossible until it is done" & "You may say I'm a dreamer, but I'm not the only one" are catchphrases that I aspire to live by in the endeavors that I take part in.
 
-
-In the past i spent time building  the Machine Learning backend of Locafox, a Berlin based startup  in Apache Spark and Scala. Natu also spent a good couple of  years on the AWS EC2 team in Cape Town helping build EC2 services and real-time monitoring as a Software Development Engineer. In the early days of his career had engineering exposure to l 
-Biomedical/Bioinformatics space for clinical trials.
+Currently tackling problems in the intersection of Machine Learning, Data Engineering, and Distributed Systems. I had the privilege of working in diverse industries ranging from biomedical/pharma/vaccine research, cloud, fintech, and e-commerce/mobile. Along the way I had the opportunity to be granted a patent(co-inventor) in distributed systems, publish in a top academic journal and contribute to open-source software. I have recently also been very active as a speaker in ML/Tech conferences and meetups. I co-founded two tech startups earlier in my career.
 
 Along the way had the opportunity to be granted a patent(co-inventor) in distributed systems while working at Amazon (https://patents.google.com/patent/US9674275B1/en) , publish in a top academic journal( https://academic.oup.com/ije/article/42/5/1309/621438) and contribute to open-source software. I have recently also been very active as a speaker in ML/Tech conferences and meetups.
 
