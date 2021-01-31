@@ -16,8 +16,6 @@ Along the way had the opportunity to be granted a patent(co-inventor) in distrib
 
 * 2020-04-02 |Devconf South Africa - Machine Learning Principles w/ Mlflow| Slides (https://docs.google.com/presentation/d/14wrVFCI872GTtr3W_GK-0qrwn0WHitObngIQ_lnhSj0/edit?usp=sharing) 
 
-* 2020-04-02| Devconf South Africa - Machine Learning Principles w/ Mlflow| Slides (https://docs.google.com/presentation/d/14wrVFCI872GTtr3W_GK-0qrwn0WHitObngIQ_lnhSj0/edit?usp=sharing) 
-
 * 2020-03-24| Deep Learning Indaba𝕏 South Africa| Video (https://www.youtube.com/watch?v=lc4bVb2g3pA) 
 
 * 2019-10-27|AWS Dev days Cape Town - Devconf South Africa - Machine Learning Principles w/ Mlflow
