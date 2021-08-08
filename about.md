@@ -22,6 +22,10 @@ Along the way had the opportunity to be granted a patent(co-inventor) in distrib
 
 * 2019-10-09| PyconZA 2019| Video (https://www.youtube.com/watch?v=oIrnMdG4L0I&t)
 
+## Book
+* 2021 - Machine Learning Engineering with MLFlow  - https://www.amazon.com/gp/product/B096N14KXW/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0
+
+
 ## Articles/Blogs
 * https://medium.com/omdena/how-to-become-a-data-engineer-the-plumber-of-the-ai-world-dc23e5486220
 
