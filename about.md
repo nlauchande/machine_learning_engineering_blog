@@ -12,6 +12,8 @@ Along the way had the opportunity to be granted a patent(co-inventor) in distrib
 
 ## Talks
 
+* 2021-07-26| Deep Learning Indaba𝕏 Mozambique| Video (https://www.youtube.com/watch?v=3Acc6ASunn8&t=0s) 
+
 * 2020-04-02 |Devconf South Africa - Machine Learning Principles w/ Mlflow| Slides (https://docs.google.com/presentation/d/14wrVFCI872GTtr3W_GK-0qrwn0WHitObngIQ_lnhSj0/edit?usp=sharing) 
 
 * 2020-03-24| Deep Learning Indaba𝕏 South Africa| Video (https://www.youtube.com/watch?v=lc4bVb2g3pA) 
@@ -31,12 +33,12 @@ Along the way had the opportunity to be granted a patent(co-inventor) in distrib
 
 * https://medium.com/@nlauchande/rust-coding-up-a-simple-concatenate-files-tool-and-first-impressions-a8cbe680e887
 
-* https://medium.com/@nlauchande/rust-coding-up-a-simple-concatenate-files-tool-and-first-impressions-a8cbe680e887
-
 
 ## Podcasts/Interviews
 
+* (https://www.youtube.com/watch?v=1LJq7zCnmdI&t=0s)
 * (https://anchor.fm/gerusio/episodes/Natu-Lauchande---Do-Centro-de-Investigacao-em-Saude-da-Manhica-para-a-Amazon-em-Cape-Town-eo9mdm)
+
 
 
 If you like my website, you can follow me on twitter [@nlauchande](https://twitter.com/nlauchande).
