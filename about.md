@@ -40,9 +40,9 @@ Along the way had the opportunity to be granted a patent(co-inventor) in distrib
 
 ## Podcasts/Interviews
 
-* [](https://www.youtube.com/watch?v=1LJq7zCnmdI&t=0s)
+* [Kutiva - Developers Abroad - PT](https://www.youtube.com/watch?v=1LJq7zCnmdI&t=0s)
 
-* [](https://anchor.fm/gerusio/episodes/Natu-Lauchande---Do-Centro-de-Investigacao-em-Saude-da-Manhica-para-a-Amazon-em-Cape-Town-eo9mdm)
+* [Moz Diaspora - PT ](https://anchor.fm/gerusio/episodes/Natu-Lauchande---Do-Centro-de-Investigacao-em-Saude-da-Manhica-para-a-Amazon-em-Cape-Town-eo9mdm)
 
 
 If you like my website, you can follow me on twitter [@nlauchande](https://twitter.com/nlauchande).
