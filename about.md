@@ -7,13 +7,7 @@ My name is Natu Lauchande i am currently a Data / ML Engineer with experience in
 
 Along the way had the opportunity to be granted a patent(co-inventor) in distributed systems while working at [Amazon - Patent LINK](https://patents.google.com/patent/US9674275B1/en) , publish in a top [academic journal](https://academic.oup.com/ije/article/42/5/1309/621438) and contribute to open-source software. I have recently also been very active as a speaker in ML/Tech conferences and meetups.
 
-Links:
-
-* [Google Scholar](https://scholar.google.co.za/citations?user=VfFNjzkAAAAJ&hl=en)
-
-* [Github](https://github.com/nlauchande/)
-
-* [Linkedin](https://www.linkedin.com/in/natu-lauchande-0955714/)
+Links: [Google Scholar](https://scholar.google.co.za/citations?user=VfFNjzkAAAAJ&hl=en) -  [Github](https://github.com/nlauchande/) -  [Linkedin](https://www.linkedin.com/in/natu-lauchande-0955714/) -  [Twitter](https://twitter.com/nlauchande) 
 
 
 ## Talks
