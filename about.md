@@ -10,7 +10,7 @@ Along the way had the opportunity to be granted a patent(co-inventor) in distrib
 Links:
 [Google Scholar](https://scholar.google.co.za/citations?user=VfFNjzkAAAAJ&hl=en)
 
-[Github][https://github.com/nlauchande/]
+[Github](https://github.com/nlauchande/)
 
 
 ## Talks
