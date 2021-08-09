@@ -3,7 +3,7 @@
 
 ![Here I am](https://pbs.twimg.com/profile_images/1138050464573022208/llhmkn26_400x400.png)
 
-My name is Natu Lauchande i am currently a Data / ML Engineer with experience in Fintech/Ecommerce/Cloud space/Biotech. At heart, I enjoy coding Distributed/Data/ML systems with cool/motivated people rallying around a challenging effort that makes the world a better place.  "It always seems impossible until it is done" & "You may say I'm a dreamer, but I'm not the only one" are catchphrases that I aspire to live by in the endeavors that I take part in.
+My name is Natu Lauchande i am currently a Chief Data Engineer( R&D in ML/AI) in a NASDAQ listed Telematics company with previous experience in Fintech/Ecommerce/Cloud space/Biotech. At heart, I enjoy coding Distributed/Data/ML systems with cool/motivated people rallying around a challenging effort that makes the world a better place.  "It always seems impossible until it is done" & "You may say I'm a dreamer, but I'm not the only one" are catchphrases that I aspire to live by in the endeavors that I take part in.
 
 In the last ten years i have lived in five cities and two continents, worked ranged from top public cloud in the world and startups in the Data space. 
 
