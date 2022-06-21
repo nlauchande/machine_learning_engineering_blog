@@ -3,7 +3,7 @@
 
 ![Here I am](https://pbs.twimg.com/profile_images/1138050464573022208/llhmkn26_400x400.png)
 
-My name is Natu Lauchande i am currently a Chief Data Engineer( R&D in ML/AI) in a NASDAQ listed Telematics company with previous experience in Fintech/Ecommerce/Cloud space/Biotech. At heart, I enjoy coding Distributed/Data/ML systems with cool/motivated people rallying around a challenging effort that makes the world a better place.  "It always seems impossible until it is done" & "You may say I'm a dreamer, but I'm not the only one" are catchphrases that I aspire to live by in the endeavors that I take part in.
+My name is Natu Lauchande i am currently a Techie focused on Data, Analytics, ML and Distributed systems. At heart, I enjoy coding with cool/motivated people rallying around a challenging effort that makes the world a better place.  "It always seems impossible until it is done" & "You may say I'm a dreamer, but I'm not the only one" are catchphrases that I aspire to live by in the endeavors that I take part in.
 
 In the last ten years i have lived in five cities and two continents, worked ranged from top public cloud in the world and startups in the Data space. 
 
@@ -13,7 +13,7 @@ Links: [Google Scholar](https://scholar.google.co.za/citations?user=VfFNjzkAAAAJ
 
 
 ## Talks
-
+2021-09-28 |Cape Town Machine Learning - Meetup - Machine Learning Engineering w/ Mlflow [Video](https://www.youtube.com/watch?v=ietnpS_W9Tk&t=2581s) 
 2021-07-26| Deep Learning Indaba𝕏 Mozambique|  [Video](https://www.youtube.com/watch?v=3Acc6ASunn8&t=0s) 
 2020-04-02 |Devconf South Africa - Machine Learning Principles w/ Mlflow| [Slides](https://docs.google.com/presentation/d/14wrVFCI872GTtr3W_GK-0qrwn0WHitObngIQ_lnhSj0/edit?usp=sharing) 
 2020-03-24| Deep Learning Indaba𝕏 South Africa| [Video](https://www.youtube.com/watch?v=lc4bVb2g3pA) 
@@ -22,10 +22,8 @@ Links: [Google Scholar](https://scholar.google.co.za/citations?user=VfFNjzkAAAAJ
 
 
 ## Book
-
 2021-[Machine Learning Engineering with MLFlow](https://www.amazon.com/gp/product/B096N14KXW/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
 ![image](https://user-images.githubusercontent.com/646979/128640381-7d762427-abaa-49c7-be6f-864cfc89e74e.png)
-
 
 
 ## Articles/Blogs
