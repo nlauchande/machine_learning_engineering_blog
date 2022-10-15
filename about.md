@@ -13,6 +13,7 @@ Links: [Google Scholar](https://scholar.google.co.za/citations?user=VfFNjzkAAAAJ
 
 
 ## Talks
+2022-10-14 |Pyconza 2022 - The Good, the Bad and the Ugly of writing a technical book | https://za.pycon.org/talks/lightning-talks/
 2021-09-28 |Cape Town Machine Learning - Meetup - Machine Learning Engineering w/ Mlflow [Video](https://www.youtube.com/watch?v=ietnpS_W9Tk&t=2581s) 
 2021-07-26| Deep Learning Indaba𝕏 Mozambique|  [Video](https://www.youtube.com/watch?v=3Acc6ASunn8&t=0s) 
 2020-04-02 |Devconf South Africa - Machine Learning Principles w/ Mlflow| [Slides](https://docs.google.com/presentation/d/14wrVFCI872GTtr3W_GK-0qrwn0WHitObngIQ_lnhSj0/edit?usp=sharing) 
@@ -26,7 +27,9 @@ Links: [Google Scholar](https://scholar.google.co.za/citations?user=VfFNjzkAAAAJ
 ![image](https://user-images.githubusercontent.com/646979/128640381-7d762427-abaa-49c7-be6f-864cfc89e74e.png)
 
 
-## Articles/Blogs
+## Articles/Blogs/Publication
+* "A computer vision non-intrusive mechanism to collect images and give real-time insights about animal behaviors on coral reefs in Mozambican Waters" - Deeep Learning Indaba 2022 - [Best Poster Award] - Luis Pina et. Al
+
 * [How to Become a Data Engineer: The AI Plumber?](https://medium.com/omdena/how-to-become-a-data-engineer-the-plumber-of-the-ai-world-dc23e5486220)
 
 * [Review notes of ML PLatforms — Uber Michelangelo](https://medium.com/@nlauchande/review-notes-of-ml-platforms-uber-michelangelo-e133eb6031da)
@@ -38,7 +41,9 @@ Links: [Google Scholar](https://scholar.google.co.za/citations?user=VfFNjzkAAAAJ
 * [Rust : coding up a simple concatenate files tool and first impressions](https://medium.com/@nlauchande/rust-coding-up-a-simple-concatenate-files-tool-and-first-impressions-a8cbe680e887)
 
 
-## Podcasts/Interviews
+## Podcasts/Interviews/Profiles
+
+* [Profile in a Digital News Outlet ] : https://kabum.digital/conheca-o-percurso-de-natu-lauchande-na-amazon/
 
 * [Kutiva - Developers Abroad - PT](https://www.youtube.com/watch?v=1LJq7zCnmdI&t=0s)
 
