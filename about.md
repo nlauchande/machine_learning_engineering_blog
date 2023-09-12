@@ -3,9 +3,9 @@
 
 ![Here I am](https://pbs.twimg.com/profile_images/1138050464573022208/llhmkn26_400x400.png)
 
-My name is Natu Lauchande i am currently a Techie focused on Data, Analytics, ML and Distributed systems. At heart, I enjoy coding with cool/motivated people rallying around a challenging effort that makes the world a better place.  "It always seems impossible until it is done" & "You may say I'm a dreamer, but I'm not the only one" are catchphrases that I aspire to live by in the endeavors that I take part in.
+My name is Natu Lauchande I am currently a Techie focused on Data, Analytics, ML and Distributed systems. At heart, I enjoy coding with cool/motivated people rallying around a challenging effort that makes the world a better place.  "It always seems impossible until it is done" & "You may say I'm a dreamer, but I'm not the only one" are catchphrases that I aspire to live by in the endeavors that I take part in.
 
-In the last ten years i have lived in five cities and two continents, worked ranged from top public cloud in the world and startups in the Data space. 
+In the last ten years I have lived in five cities and two continents and worked ranged from top public cloud in the world, and startups in the Data space. 
 
 Along the way had the opportunity to be granted a patent(co-inventor) in distributed systems while working at [Amazon - Patent LINK](https://patents.google.com/patent/US9674275B1/en) , publish in a top [academic journal](https://academic.oup.com/ije/article/42/5/1309/621438) and contribute to open-source software. I have recently also been very active as a speaker in ML/Tech conferences and meetups. I have recently written a book in the area of Machine Learning Engineering for an international bookseller.
 
