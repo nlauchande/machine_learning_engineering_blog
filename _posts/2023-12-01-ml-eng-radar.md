@@ -40,10 +40,13 @@ Pub-sub, event queuing.
 Open Real-time/Interactive Engines
 Starock - contains already proven data models.
 
+===== A Blue Print for Open Data Architecture by Vinoth Chandar =====
+
+https://events.solutionmonday.com/e/open-source-data-summit/portal/stage/309686
 
 
 
-
+![Screenshot 2023-11-16 at 22 09 06 (2)](https://github.com/nlauchande/nlauchande.github.io/assets/646979/01776af6-afe9-47e5-8afd-43f5b1215273)
 
 
 
