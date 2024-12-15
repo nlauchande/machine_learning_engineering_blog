@@ -6,6 +6,7 @@
 # Types of Recommender Systems
 
 
+**Metrics:**
 
 # Recommendation Rate
 
